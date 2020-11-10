@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Shopping Item)">8b52597edbd020106cd029464896193a</button>
+        <button_parent_table>x_544096_shopping_shopping_item</button_parent_table>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>source_field</default_value_type>
+        <field_name>purchased</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>text</input_type>
+        <mandatory>false</mandatory>
+        <multi_select>false</multi_select>
+        <name>Purchased</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-09 08:39:35</sys_created_on>
+        <sys_id>8352597edbd020106cd029464896193b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Purchased</sys_name>
+        <sys_package display_value="Shopping List" source="x_544096_shopping">912d49b6dbd020106cd02946489619ea</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">912d49b6dbd020106cd02946489619ea</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_8352597edbd020106cd029464896193b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-09 08:39:35</sys_updated_on>
+        <table_name>x_544096_shopping_shopping_item</table_name>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=8352597edbd020106cd029464896193b"/>
+</record_update>
